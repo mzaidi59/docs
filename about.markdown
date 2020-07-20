@@ -4,4 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-Personal webpage, [website](https://mzaidi59.github.io/)
+TO know more about me, visit my [website](https://mzaidi59.github.io/).
