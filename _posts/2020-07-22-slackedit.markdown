@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Ghamgeen Magar Kyun!"
-date:   2020-07-19 22:21:25 +0900
-categories: Poetry
+title:  "Slackedit!"
+date:   2020-07-22 22:21:25 +0900
+categories: utility
 ---
 
 # Welcome to StackEdit!
