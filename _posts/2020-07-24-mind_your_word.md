@@ -28,8 +28,8 @@ The words 'little' and 'give' are used in almost all polite sentences(in both Ur
 it literally translates to 'Sing a little and give listening to me.' The Korean sentence is very similar.
 >'노래를좀불러주세요 /Norae jom bullawjuseyo'  
 
-### To ask if someone has done something or to recommend something new
-In Urdu, one would commonly say, "Ye pahle kabhi karke dekha hai?/ Ye khake dekha hai?" which literally translates to, "Have you ever done and seen this?/ Have you ever eaten and seen this?" Interestingly, this is exactly the same for Korean. 
+### Have you ever/ Try this
+In Urdu, to ask if someone has done something, one would commonly say, "Ye pahle kabhi karke dekha hai?/ Ye khake dekha hai?" which literally translates to, "Have you ever done and seen this?/ Have you ever eaten and seen this?" Interestingly, this is exactly the same for Korean. 
 > '치킨 먹어봤어요? Chickin Mawgobwassawyo?'  
 
 which means "Have you ever tried Chicken?" but a literal translation would be, "Have you eaten and seen Chicken".
