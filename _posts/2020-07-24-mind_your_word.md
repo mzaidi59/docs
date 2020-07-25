@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mind your wor(l)d"
-date:   2020-07-25 22:21:25 +0900
+date:   2020-07-24 22:21:25 +0900
 categories: Thoughts
 tags: [language learning, urdu, korean]
 ---
