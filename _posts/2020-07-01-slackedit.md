@@ -2,6 +2,7 @@
 layout: post
 title:  "Slackedit!"
 date:   2020-07-01 22:21:25 +0900
+categories: utility
 hidden: true
 ---
 
