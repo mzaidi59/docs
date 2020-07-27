@@ -3,7 +3,6 @@ layout: post
 title:  "Slackedit!"
 date:   2020-07-01 22:21:25 +0900
 hidden: true
-categories: utility
 ---
 
 Utility based slackedit post for other blogs
